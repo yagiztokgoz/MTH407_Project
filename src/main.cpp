@@ -45,7 +45,7 @@ int main( int argc, char* args[] )
     }
 
     // Create Display
-    if (!mDisplay.createRenderer("AKFSF Simulations", SCREEN_WIDTH, SCREEN_HEIGHT)){return false;}
+    if (!mDisplay.createRenderer("MTH407:Fundamentals of Automatic Target Tracking", SCREEN_WIDTH, SCREEN_HEIGHT)){return false;}
 
     // Main Simulation Loop
     mSimulation.reset(loadSimulation1Parameters());

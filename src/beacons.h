@@ -34,4 +34,4 @@ class BeaconMap
 };
 
 
-#endif  // INCLUDE_AKFSFSIM_BEACONS_H
+#endif  
