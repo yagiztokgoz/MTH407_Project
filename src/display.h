@@ -1,5 +1,5 @@
-#ifndef INCLUDE_AKFSFSIM_DISPLAY_H
-#define INCLUDE_AKFSFSIM_DISPLAY_H
+#ifndef INCLUDE_MTH407_DISPLAY_H
+#define INCLUDE_MTH407_DISPLAY_H
 
 // System Includes
 #include <memory>
